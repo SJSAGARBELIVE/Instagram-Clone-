@@ -1,5 +1,6 @@
 INSTAGRAM CLONE#
 <br>
-Express Generator and Node.js Only Backend With Authentication & Authorization (PASSPORT , PASSPORT-LOCAL , PASSPORT-LOCAL-MONGOOSE)
+Express Generator and Node.js Only Backend With Authentication & Authorization 
+(PASSPORT , PASSPORT-LOCAL , PASSPORT-LOCAL-MONGOOSE)
 <br>
 SESSION COOKIE METHODS ARE ALSO THERE WITH NO SQL DATA BASE OF MONGO DB
